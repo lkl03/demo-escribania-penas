@@ -1,2 +1,7 @@
-# demo-escribania-penas
-Demo web para Escribania Penas — diseñada por eterlab.
+# Escribania Penas
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
